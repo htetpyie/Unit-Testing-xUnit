@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace xUnitTesting.Features.Order
 {
-    public class OrderServiceTest
+    public class OrderServiceTests
     {
         [Fact]
         public void IsOrderPlaced_ForAnyOrder_ReturnsTrue()
